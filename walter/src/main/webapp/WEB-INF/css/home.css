@@ -1,0 +1,7 @@
+.head{
+	margin: 10px;
+}
+.head:hover{
+	width: 55px;
+	height: 55px;
+}
