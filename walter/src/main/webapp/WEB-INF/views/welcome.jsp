@@ -8,12 +8,15 @@
 
 <style type="text/css">
 	#head{
-		position: relative;
-		top: 200px;
-		left: 25%;
+		position: absolute;
+		top: 10px;
+		left: 33%;
+		color: white;
 	}
 	body {
-		background-color: rgb(44,33,12);
+		/* background-color: rgb(185,110,0); */
+		background-image: url(images/Wallpaper.jpg);
+		
 }
 </style>
 </head>
@@ -36,6 +39,6 @@
 	};
 	Renren.ui(uiOpts);
 </script>
-<h1 id="head">WELCOME TO THE SPRING WORLD ! YES</h1>
+<h1 id="head">WELCOME TO Strongme APP</h1>
 </body>
 </html>

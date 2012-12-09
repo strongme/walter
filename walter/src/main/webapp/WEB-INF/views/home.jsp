@@ -6,6 +6,12 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>HOME</title>
 <link type="text/css" rel="stylesheet" href="<%=request.getContextPath()%>/css/home.css">
+<style type="text/css">
+	body {
+		/* background-color: rgb(185,110,0); */
+		background-image: url(images/Wallpaper.jpg);
+	}
+</style>
 </head>
 <body>
 <h1><em>查看好友列表</em>_1.1</h1>
@@ -19,8 +25,6 @@
 			var friend =friends[i];
 			$("body").append("<img src='"+friend.tinyurl+"' title='"+friend.name+"' class='head' width=50 hight=50>");
 		}
-		
-		
 	});
 </script>
 </body>
