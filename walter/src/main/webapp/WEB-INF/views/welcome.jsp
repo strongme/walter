@@ -36,6 +36,6 @@
 	};
 	Renren.ui(uiOpts);
 </script>
-<h1 id="head">WELCOME TO THE SPRING WORLD</h1>
+<h1 id="head">WELCOME TO THE SPRING WORLD ! YES</h1>
 </body>
 </html>
